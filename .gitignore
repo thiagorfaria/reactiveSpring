@@ -10,3 +10,4 @@ HELP.md
 *.ipr
 /out/
 
+.kotlintest
